@@ -1,0 +1,10 @@
+/*Exercise 5*/
+.rendition.rendition.rendition.bg-medium .btn > .cta-body {
+    border-color: white;
+    background-color: blue;
+}
+
+.rendition.rendition.rendition.bg-medium .btn.secondary > .cta-body {
+    border-color: white;
+    background-color: white;
+}
